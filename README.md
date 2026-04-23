@@ -12,15 +12,27 @@ Upload your TAS data files, you will see the full summary list and the quick plo
 
 ## 🎯 Features
 Users could configure the text data structure
+
+Data structure configuration can be saved locally
+
 Suitable for almost all columnar text data files
+
 Quick plotting data
+
 Showing the first five rows for data checking
+
 Quick fitting data with one, two, and three Gaussians
+
 Group ploting selected data
+
 Quick Contour Map
+
 Quick plotting the sit-and-count data
+
 Quick 3He polarization decay and normalization analysis
+
 Taipan batch file validation
+
 
 ## 🤝 Contributing
 
